@@ -68,6 +68,8 @@ img{
     padding:20px;
     border-radius:20px;
     background-color:#30415a;
+    justify-content: center;
+   align-items: baseline;
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
