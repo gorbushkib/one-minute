@@ -27,6 +27,12 @@ image{
     height: auto;
 }
 
+.banner-container{
+    width: 100%;
+   display: flex;
+   justify-content: center;
+}
+
 .wrapper{
 max-width: 1000px;
 width:100%;
