@@ -5,7 +5,10 @@ body{
     color: rgb(255, 255, 255);
     font-family: "Montserrat", serif;
     font-weight: 400;
-    
+}
+
+ul li{
+    font-size:16px;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -51,7 +54,7 @@ img{
 .dis{
     padding:20px;
     border-radius:20px;
-    background-color:#383838;
+    background-color:#30415a;
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
