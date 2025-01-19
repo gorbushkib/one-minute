@@ -48,21 +48,13 @@ img{
     border-radius: 15px;
 }
 
-.img-gallery{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-}
-
-.img-gallery img{
-   width: 100%;
-    object-fit: cover;
+.dis{
+    padding:20px;
+    border-radius:20px;
+    background-color:#383838;
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
-    .img-gallery{
-        grid-template-columns: 1fr;
-    }
 
     h1,h2,h3,h4,h5,h6{
         text-align: center;
